@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<<<<<<< HEAD
-
 <h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG WEB</b></h>
 
 ## THÀNH VIÊN NHÓM
