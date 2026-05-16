@@ -45,8 +45,6 @@
 
 ## 🛠 Tư duy hệ thống & Thiết kế (System Design)
 
-_Phần này thể hiện năng lực của một PO trong việc cấu trúc hóa sản phẩm._
-
 ### 1. Luồng nghiệp vụ chính (Critical User Journeys)
 
 Hệ thống được thiết kế dựa trên 3 luồng chính:
