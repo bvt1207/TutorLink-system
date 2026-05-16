@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>PHÁT TRIỂN ỨNG DỤNG WEB</b></h>
+<h1 align="center"><b>THIẾT KẾ HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ</b></h>
 
 ## THÀNH VIÊN NHÓM
 
@@ -25,7 +25,7 @@
 - **Năm học:** HK1 (2025 - 2026)
 - **Giảng viên**: ThS.Trình Trọng Tín
 
-## Stocument-IS207.P21
+## GIỚI THIỆU ĐỒ ÁN
 
 Đồ án cuối kỳ môn Thiết kế hệ thống thương mại điện tử EC312.Q11 - thầy Trình Trọng Tín
 
